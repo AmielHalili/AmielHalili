@@ -3,6 +3,14 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmielHalili&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=AmielHalili&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmielHalili&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -54,13 +62,31 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpzeHMxenQyZTVybDBjeTAzcHNvYnhhZHNubHpjbHFxZnpseWtvdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AHpC7mG5fOaA3cgYw1/giphy.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
+</div>
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpzeHMxenQyZTVybDBjeTAzcHNvYnhhZHNubHpjbHFxZnpseWtvdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AHpC7mG5fOaA3cgYw1/giphy.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AmielHalili/AmielHalili/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AmielHalili.AmielHalili&left_color=aqua"  />
 </div>
 
 ###
